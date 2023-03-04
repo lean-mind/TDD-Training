@@ -8,7 +8,7 @@ This is the first exercise and it’s the only one that will not be done from sc
 During this process we will work on the basics of testing: Naming, Scope, Coherence, Modularisation, Testing flow (before, after, setup), Testing blocks (Given, When, Then)
 
 [TypeScript](https://github.com/lean-mind/TS-test-mars-rover)
-[Python]()
+[Python](https://github.com/lean-mind/python-test-mars-rover)
 
 ### The Problem
 
